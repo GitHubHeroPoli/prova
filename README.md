@@ -1,2 +1,12 @@
-# prova
-Qui si impara ad usare github and we welcome everyone tradurremo questo file in tutte le lingue 谢谢大家。
+# Test repository
+
+___________________________________________
+Qui si impara ad usare GitHub </br>
+Here you can learn how to use GitHub </br>
+___________________________________________
+
+Needs more <del>translations</del> <b>cowbell!</b>
+
+谢谢大家。  <-- prego
+
+
