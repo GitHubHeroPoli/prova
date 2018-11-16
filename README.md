@@ -9,4 +9,5 @@ Needs more <del>translations</del> <b>cowbell!</b>
 
 谢谢大家。  <-- prego
 
+Ora anche io sono un GithubHero (LB)
 
